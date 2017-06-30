@@ -8,3 +8,9 @@ I've seen that people has been struggling to achieve this, but I haven't seen th
 
 ## How it works
 For the normal one, you're basically making elements that is relative to parent elements' height and width. The scaling one is a bit tricky, I used `padding-bottom: 100%` to make the height of the element keep the ratio.
+
+### This is the scaled element (they're all elements from html, I used 0 images)
+![scale](https://user-images.githubusercontent.com/4760947/27757199-e81d21dc-5e28-11e7-9fd4-45a56e4846d6.png)
+
+### This is the stretched element (they're all elements from html, I used 0 images)
+![stretch](https://user-images.githubusercontent.com/4760947/27757220-3035292e-5e29-11e7-9231-2e1f0a7e7127.png)
