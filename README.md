@@ -14,3 +14,6 @@ For the normal one, you're basically making elements that is relative to parent 
 
 ### This is the stretched element (they're all elements from html, I used 0 images)
 ![stretch](https://user-images.githubusercontent.com/4760947/27757220-3035292e-5e29-11e7-9231-2e1f0a7e7127.png)
+
+## How to check it
+Just open those HTML files on your web browser, try to resize the window. Also try to zoom in and zoom out.
